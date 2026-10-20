@@ -16,6 +16,12 @@ It allowed users to trade tokens directly inside Telegram group chats, used by *
 - Referral and points system
 - Used across 100+ Telegram communities
 
+## Public Repositories
+
+- Telegram bot: [VIVI-telegram-bot](https://github.com/VIVI-Agent/VIVI-telegram-bot)
+- Swap fee contracts: [VIVI-swap-fee-contract](https://github.com/VIVI-Agent/VIVI-swap-fee-contract)
+- Token contracts: [VIVI-token-contracts](https://github.com/VIVI-Agent/VIVI-token-contracts)
+
 ## Links
 
 - Telegram Bot: [t.me/VIVIBaseBot](https://t.me/VIVIBaseBot)
@@ -24,9 +30,8 @@ It allowed users to trade tokens directly inside Telegram group chats, used by *
 
 ## Notes
 
-- This repository contains no production source code.
-- The original trading logic and private keys were never open-sourced.
-- The project is archived for reference only.
+- Core production source and private keys were never fully open-sourced.
+- These repositories are archived for reference only.
 
 ---
 
